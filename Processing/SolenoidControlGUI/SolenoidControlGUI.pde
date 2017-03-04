@@ -1,15 +1,11 @@
 import g4p_controls.*;
 
 public void setup(){
-  size(650, 400, JAVA2D);
+  size(650, 400, JAVA2D);	// Window size
   createGUI();
-  customGUI();  
 }
 
 public void draw(){
   background(230);
   
-}
-public void customGUI(){
-
 }

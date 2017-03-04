@@ -1,263 +1,203 @@
+// Setting outputs for option selections
+
+// Valve controller selector outputs
 public void option1_clicked1(GOption source, GEvent event) {
 	println("A,00");
 }
-
 public void option2_clicked1(GOption source, GEvent event) {
 	println("A,01");
 }
-
 public void option3_clicked1(GOption source, GEvent event) {
 	println("A,02");
 }
-
 public void option4_clicked1(GOption source, GEvent event) {
 	println("A,03");
 }
-
 public void option5_clicked1(GOption source, GEvent event) {
 	println("A,04");
 }
-
 public void option6_clicked1(GOption source, GEvent event) {
 	println("A,05");
 }
-
 public void option7_clicked1(GOption source, GEvent event) {
 	println("A,06");
 }
-
 public void option8_clicked1(GOption source, GEvent event) {
 	println("A,07");
 }
-
 public void option9_clicked1(GOption source, GEvent event) {
 	println("A,08");
 }
-
 public void option10_clicked1(GOption source, GEvent event) {
 	println("A,09");
 }
-
 public void option11_clicked1(GOption source, GEvent event) {
 	println("A,10");
 }
-
 public void option12_clicked1(GOption source, GEvent event) {
 	println("A,11");
 }
-
 public void option13_clicked1(GOption source, GEvent event) {
 	println("A,12");
 }
-
 public void option14_clicked1(GOption source, GEvent event) {
 	println("A,13");
 }
-
 public void option15_clicked1(GOption source, GEvent event) {
 	println("A,14");
 }
-
 public void option16_clicked1(GOption source, GEvent event) {
 	println("A,15");
 }
-
 public void option17_clicked1(GOption source, GEvent event) {
 	println("A,16");
 }
-
 public void option18_clicked1(GOption source, GEvent event) {
 	println("A,17");
 }
-
 public void option19_clicked1(GOption source, GEvent event) {
 	println("A,18");
 }
-
 public void option20_clicked1(GOption source, GEvent event) {
 	println("A,19");
 }
-
 public void option21_clicked1(GOption source, GEvent event) {
 	println("A,20");
 }
-
 public void option22_clicked1(GOption source, GEvent event) {
 	println("A,21");
 }
-
 public void option23_clicked1(GOption source, GEvent event) {
 	println("A,22");
 }
-
 public void option24_clicked1(GOption source, GEvent event) {
 	println("A,23");
 }
-
 public void option25_clicked1(GOption source, GEvent event) {
 	println("A,24");
 }
-
 public void option26_clicked1(GOption source, GEvent event) {
 	println("A,25");
 }
-
 public void option27_clicked1(GOption source, GEvent event) {
 	println("A,26");
 }
-
 public void option28_clicked1(GOption source, GEvent event) {
 	println("A,27");
 }
-
 public void option29_clicked1(GOption source, GEvent event) {
 	println("A,28");
 }
-
 public void option30_clicked1(GOption source, GEvent event) {
 	println("A,29");
 }
-
 public void option31_clicked1(GOption source, GEvent event) {
 	println("A,30");
 }
-
 public void option32_clicked1(GOption source, GEvent event) {
 	println("A,31");
 }
-
 public void option33_clicked1(GOption source, GEvent event) {
 	println("A,32");
 }
-
 public void option34_clicked1(GOption source, GEvent event) {
 	println("A,33");
 }
-
 public void option35_clicked1(GOption source, GEvent event) {
 	println("A,34");
 }
-
 public void option36_clicked1(GOption source, GEvent event) {
 	println("A,35");
 }
-
 public void option37_clicked1(GOption source, GEvent event) {
 	println("A,36");
 }
-
 public void option38_clicked1(GOption source, GEvent event) {
 	println("A,37");
 }
-
 public void option39_clicked1(GOption source, GEvent event) {
 	println("A,38");
 }
-
 public void option40_clicked1(GOption source, GEvent event) {
 	println("A,39");
 }
-
 public void option41_clicked1(GOption source, GEvent event) {
 	println("A,40");
 }
-
 public void option42_clicked1(GOption source, GEvent event) {
 	println("A,41");
 }
-
 public void option43_clicked1(GOption source, GEvent event) {
 	println("A,42");
 }
-
 public void option44_clicked1(GOption source, GEvent event) {
 	println("A,43");
 }
-
 public void option45_clicked1(GOption source, GEvent event) {
 	println("A,44");
 }
-
 public void option46_clicked1(GOption source, GEvent event) {
 	println("A,45");
 }
-
 public void option47_clicked1(GOption source, GEvent event) {
 	println("A,46");
 }
-
 public void option48_clicked1(GOption source, GEvent event) {
 	println("A,47");
 }
-
 public void option49_clicked1(GOption source, GEvent event) {
 	println("A,48");
 }
-
 public void option50_clicked1(GOption source, GEvent event) {
 	println("A,49");
 }
-
 public void option51_clicked1(GOption source, GEvent event) {
 	println("A,50");
 }
-
 public void option52_clicked1(GOption source, GEvent event) {
 	println("A,51");
 }
-
 public void option53_clicked1(GOption source, GEvent event) {
 	println("A,52");
 }
-
 public void option54_clicked1(GOption source, GEvent event) {
 	println("A,53");
 }
-
 public void option55_clicked1(GOption source, GEvent event) {
 	println("A,54");
 }
-
 public void option56_clicked1(GOption source, GEvent event) {
 	println("A,55");
 }
-
 public void option57_clicked1(GOption source, GEvent event) {
 	println("A,56");
 }
-
 public void option58_clicked1(GOption source, GEvent event) {
 	println("A,57");
 }
-
 public void option59_clicked1(GOption source, GEvent event) {
 	println("A,58");
 }
-
 public void option60_clicked1(GOption source, GEvent event) {
 	println("A,59");
 }
-
 public void option61_clicked1(GOption source, GEvent event) {
 	println("A,60");
 }
-
 public void option62_clicked1(GOption source, GEvent event) {
 	println("A,61");
 }
-
 public void option63_clicked1(GOption source, GEvent event) {
 	println("A,62");
 }
-
 public void option64_clicked1(GOption source, GEvent event) {
 	println("A,63");
 }
-
 public void option65_clicked1(GOption source, GEvent event) {
 	println("A,64");
 }
 
+// Merge selector outputs
 public void option66_clicked1(GOption source, GEvent event) {
 	println("B,00");
 }
@@ -265,6 +205,7 @@ public void option67_clicked1(GOption source, GEvent event) {
 	println("B,01");
 }
 
+// Waste selector outputs
 public void option68_clicked1(GOption source, GEvent event) {
 	println("C,00");
 }
@@ -272,6 +213,7 @@ public void option69_clicked1(GOption source, GEvent event) {
 	println("C,01");
 }
 
+// Droplet generator selector outputs
 public void option70_clicked1(GOption source, GEvent event) {
 	println("D,00");
 }
@@ -285,16 +227,19 @@ public void option73_clicked1(GOption source, GEvent event) {
 	println("D,03");
 }
 
+
 public void createGUI(){
 	G4P.messagesEnabled(false);
 	G4P.setGlobalColorScheme(GCScheme.BLUE_SCHEME);
 	G4P.setCursor(ARROW);
 	surface.setTitle("Solenoid Control");
+	// Selector groups
 	GroupA = new GToggleGroup();
 	GroupB = new GToggleGroup();
 	GroupC = new GToggleGroup();
 	GroupD = new GToggleGroup();
 
+	// Labels
 	label1 = new GLabel(this, 5, 70, 640, 30);
 	label1.setTextAlign(GAlign.CENTER, GAlign.MIDDLE);
 	label1.setText("Valve Control");
@@ -319,6 +264,8 @@ public void createGUI(){
 	label4.setTextBold();
 	label4.setOpaque(false);
 
+	// Valve control selector list
+		// Begin column 1
 	option1 = new GOption(this, 5, 95, 120, 20);
 	option1.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option1.setText("Case 0");
@@ -394,7 +341,7 @@ public void createGUI(){
 	option15.setText("Case 14");
 	option15.setOpaque(false);
 	option15.addEventHandler(this, "option15_clicked1");
-
+		// Begin column 2
 	option16 = new GOption(this, 135, 95, 120, 20);
 	option16.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option16.setText("Case 15");
@@ -470,7 +417,7 @@ public void createGUI(){
 	option30.setText("Case 29");
 	option30.setOpaque(false);
 	option30.addEventHandler(this, "option30_clicked1");
-
+		// Begin column 3
 	option31 = new GOption(this, 265, 95, 120, 20);
 	option31.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option31.setText("Case 30");
@@ -546,7 +493,7 @@ public void createGUI(){
 	option45.setText("Case 44");
 	option45.setOpaque(false);
 	option45.addEventHandler(this, "option45_clicked1");
-
+		// Begin column 4
 	option46 = new GOption(this, 395, 95, 120, 20);
 	option46.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option46.setText("Case 45");
@@ -622,7 +569,7 @@ public void createGUI(){
 	option60.setText("Case 59");
 	option60.setOpaque(false);
 	option60.addEventHandler(this, "option60_clicked1");
-
+		// Begin column 5
 	option61 = new GOption(this, 525, 95, 120, 20);
 	option61.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option61.setText("Case 60");
@@ -649,6 +596,7 @@ public void createGUI(){
 	option65.setOpaque(false);
 	option65.addEventHandler(this, "option65_clicked1");
 
+	// Merge selector list
 	option66 = new GOption(this, 5, 30, 120, 20);
 	option66.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option66.setText("Merge On");
@@ -660,6 +608,7 @@ public void createGUI(){
 	option67.setOpaque(false);
 	option67.addEventHandler(this, "option67_clicked1");
 	
+	// Waste selector list
 	option68 = new GOption(this, 220, 30, 120, 20);
 	option68.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option68.setText("Waste On");
@@ -671,6 +620,7 @@ public void createGUI(){
 	option69.setOpaque(false);
 	option69.addEventHandler(this, "option69_clicked1");
 
+	// Droplet Generator selector list
 	option70 = new GOption(this, 435, 30, 60, 20);
 	option70.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option70.setText("Case A");
@@ -681,7 +631,6 @@ public void createGUI(){
 	option71.setText("Case B");
 	option71.setOpaque(false);
 	option71.addEventHandler(this, "option71_clicked1");
-	
 	option72 = new GOption(this, 580, 30, 60, 20);
 	option72.setIconAlign(GAlign.LEFT, GAlign.MIDDLE);
 	option72.setText("Case C");
@@ -694,7 +643,6 @@ public void createGUI(){
 	option73.addEventHandler(this, "option73_clicked1");
 
 	GroupA.addControl(option1);
-	option1.setSelected(true);
 	GroupA.addControl(option2);
 	GroupA.addControl(option3);
 	GroupA.addControl(option4);
@@ -762,20 +710,27 @@ public void createGUI(){
 	
 	GroupB.addControl(option66);
 	GroupB.addControl(option67);
-	option67.setSelected(true);
-	
+
 	GroupC.addControl(option68);
 	GroupC.addControl(option69);
-	option68.setSelected(true);
-	
+
 	GroupD.addControl(option70);
 	GroupD.addControl(option71);
 	GroupD.addControl(option72);
 	GroupD.addControl(option73);
+	
+	// Default selections
+	option1.setSelected(true);
+	option67.setSelected(true);
+	option68.setSelected(true);
 	option70.setSelected(true);
 }
 
 // Variable declarations
+GLabel label1;
+GLabel label2;
+GLabel label3;
+GLabel label4;
 GToggleGroup GroupA;
 GToggleGroup GroupB;
 GToggleGroup GroupC;
@@ -845,10 +800,6 @@ GOption option62;
 GOption option63;
 GOption option64;
 GOption option65;
-GLabel label1;
-GLabel label2;
-GLabel label3;
-GLabel label4;
 GOption option66;
 GOption option67;
 GOption option68;
