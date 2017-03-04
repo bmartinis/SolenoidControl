@@ -1,3 +1,4 @@
+// Created 3-3-2016 by Ruchir Patel
 const int ASIZE = 12;
 const int CSIZE = 2;
 const int DSIZE = 2;
