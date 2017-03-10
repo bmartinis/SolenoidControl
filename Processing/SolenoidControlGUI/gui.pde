@@ -2,229 +2,229 @@
 
 // Valve controller selector outputs
 public void option1_clicked1(GOption source, GEvent event) {
-	println("A,00");
+	myPort.write("A,00");
 }
 public void option2_clicked1(GOption source, GEvent event) {
-	println("A,01");
+	myPort.write("A,01");
 }
 public void option3_clicked1(GOption source, GEvent event) {
-	println("A,02");
+	myPort.write("A,02");
 }
 public void option4_clicked1(GOption source, GEvent event) {
-	println("A,03");
+	myPort.write("A,03");
 }
 public void option5_clicked1(GOption source, GEvent event) {
-	println("A,04");
+	myPort.write("A,04");
 }
 public void option6_clicked1(GOption source, GEvent event) {
-	println("A,05");
+	myPort.write("A,05");
 }
 public void option7_clicked1(GOption source, GEvent event) {
-	println("A,06");
+	myPort.write("A,06");
 }
 public void option8_clicked1(GOption source, GEvent event) {
-	println("A,07");
+	myPort.write("A,07");
 }
 public void option9_clicked1(GOption source, GEvent event) {
-	println("A,08");
+	myPort.write("A,08");
 }
 public void option10_clicked1(GOption source, GEvent event) {
-	println("A,09");
+	myPort.write("A,09");
 }
 public void option11_clicked1(GOption source, GEvent event) {
-	println("A,10");
+	myPort.write("A,10");
 }
 public void option12_clicked1(GOption source, GEvent event) {
-	println("A,11");
+	myPort.write("A,11");
 }
 public void option13_clicked1(GOption source, GEvent event) {
-	println("A,12");
+	myPort.write("A,12");
 }
 public void option14_clicked1(GOption source, GEvent event) {
-	println("A,13");
+	myPort.write("A,13");
 }
 public void option15_clicked1(GOption source, GEvent event) {
-	println("A,14");
+	myPort.write("A,14");
 }
 public void option16_clicked1(GOption source, GEvent event) {
-	println("A,15");
+	myPort.write("A,15");
 }
 public void option17_clicked1(GOption source, GEvent event) {
-	println("A,16");
+	myPort.write("A,16");
 }
 public void option18_clicked1(GOption source, GEvent event) {
-	println("A,17");
+	myPort.write("A,17");
 }
 public void option19_clicked1(GOption source, GEvent event) {
-	println("A,18");
+	myPort.write("A,18");
 }
 public void option20_clicked1(GOption source, GEvent event) {
-	println("A,19");
+	myPort.write("A,19");
 }
 public void option21_clicked1(GOption source, GEvent event) {
-	println("A,20");
+	myPort.write("A,20");
 }
 public void option22_clicked1(GOption source, GEvent event) {
-	println("A,21");
+	myPort.write("A,21");
 }
 public void option23_clicked1(GOption source, GEvent event) {
-	println("A,22");
+	myPort.write("A,22");
 }
 public void option24_clicked1(GOption source, GEvent event) {
-	println("A,23");
+	myPort.write("A,23");
 }
 public void option25_clicked1(GOption source, GEvent event) {
-	println("A,24");
+	myPort.write("A,24");
 }
 public void option26_clicked1(GOption source, GEvent event) {
-	println("A,25");
+	myPort.write("A,25");
 }
 public void option27_clicked1(GOption source, GEvent event) {
-	println("A,26");
+	myPort.write("A,26");
 }
 public void option28_clicked1(GOption source, GEvent event) {
-	println("A,27");
+	myPort.write("A,27");
 }
 public void option29_clicked1(GOption source, GEvent event) {
-	println("A,28");
+	myPort.write("A,28");
 }
 public void option30_clicked1(GOption source, GEvent event) {
-	println("A,29");
+	myPort.write("A,29");
 }
 public void option31_clicked1(GOption source, GEvent event) {
-	println("A,30");
+	myPort.write("A,30");
 }
 public void option32_clicked1(GOption source, GEvent event) {
-	println("A,31");
+	myPort.write("A,31");
 }
 public void option33_clicked1(GOption source, GEvent event) {
-	println("A,32");
+	myPort.write("A,32");
 }
 public void option34_clicked1(GOption source, GEvent event) {
-	println("A,33");
+	myPort.write("A,33");
 }
 public void option35_clicked1(GOption source, GEvent event) {
-	println("A,34");
+	myPort.write("A,34");
 }
 public void option36_clicked1(GOption source, GEvent event) {
-	println("A,35");
+	myPort.write("A,35");
 }
 public void option37_clicked1(GOption source, GEvent event) {
-	println("A,36");
+	myPort.write("A,36");
 }
 public void option38_clicked1(GOption source, GEvent event) {
-	println("A,37");
+	myPort.write("A,37");
 }
 public void option39_clicked1(GOption source, GEvent event) {
-	println("A,38");
+	myPort.write("A,38");
 }
 public void option40_clicked1(GOption source, GEvent event) {
-	println("A,39");
+	myPort.write("A,39");
 }
 public void option41_clicked1(GOption source, GEvent event) {
-	println("A,40");
+	myPort.write("A,40");
 }
 public void option42_clicked1(GOption source, GEvent event) {
-	println("A,41");
+	myPort.write("A,41");
 }
 public void option43_clicked1(GOption source, GEvent event) {
-	println("A,42");
+	myPort.write("A,42");
 }
 public void option44_clicked1(GOption source, GEvent event) {
-	println("A,43");
+	myPort.write("A,43");
 }
 public void option45_clicked1(GOption source, GEvent event) {
-	println("A,44");
+	myPort.write("A,44");
 }
 public void option46_clicked1(GOption source, GEvent event) {
-	println("A,45");
+	myPort.write("A,45");
 }
 public void option47_clicked1(GOption source, GEvent event) {
-	println("A,46");
+	myPort.write("A,46");
 }
 public void option48_clicked1(GOption source, GEvent event) {
-	println("A,47");
+	myPort.write("A,47");
 }
 public void option49_clicked1(GOption source, GEvent event) {
-	println("A,48");
+	myPort.write("A,48");
 }
 public void option50_clicked1(GOption source, GEvent event) {
-	println("A,49");
+	myPort.write("A,49");
 }
 public void option51_clicked1(GOption source, GEvent event) {
-	println("A,50");
+	myPort.write("A,50");
 }
 public void option52_clicked1(GOption source, GEvent event) {
-	println("A,51");
+	myPort.write("A,51");
 }
 public void option53_clicked1(GOption source, GEvent event) {
-	println("A,52");
+	myPort.write("A,52");
 }
 public void option54_clicked1(GOption source, GEvent event) {
-	println("A,53");
+	myPort.write("A,53");
 }
 public void option55_clicked1(GOption source, GEvent event) {
-	println("A,54");
+	myPort.write("A,54");
 }
 public void option56_clicked1(GOption source, GEvent event) {
-	println("A,55");
+	myPort.write("A,55");
 }
 public void option57_clicked1(GOption source, GEvent event) {
-	println("A,56");
+	myPort.write("A,56");
 }
 public void option58_clicked1(GOption source, GEvent event) {
-	println("A,57");
+	myPort.write("A,57");
 }
 public void option59_clicked1(GOption source, GEvent event) {
-	println("A,58");
+	myPort.write("A,58");
 }
 public void option60_clicked1(GOption source, GEvent event) {
-	println("A,59");
+	myPort.write("A,59");
 }
 public void option61_clicked1(GOption source, GEvent event) {
-	println("A,60");
+	myPort.write("A,60");
 }
 public void option62_clicked1(GOption source, GEvent event) {
-	println("A,61");
+	myPort.write("A,61");
 }
 public void option63_clicked1(GOption source, GEvent event) {
-	println("A,62");
+	myPort.write("A,62");
 }
 public void option64_clicked1(GOption source, GEvent event) {
-	println("A,63");
+	myPort.write("A,63");
 }
 public void option65_clicked1(GOption source, GEvent event) {
-	println("A,64");
+	myPort.write("A,64");
 }
 
 // Merge selector outputs
 public void option66_clicked1(GOption source, GEvent event) {
-	println("B,00");
+	myPort.write("B,00");
 }
 public void option67_clicked1(GOption source, GEvent event) {
-	println("B,01");
+	myPort.write("B,01");
 }
 
 // Waste selector outputs
 public void option68_clicked1(GOption source, GEvent event) {
-	println("C,00");
+	myPort.write("C,00");
 }
 public void option69_clicked1(GOption source, GEvent event) {
-	println("C,01");
+	myPort.write("C,01");
 }
 
 // Droplet generator selector outputs
 public void option70_clicked1(GOption source, GEvent event) {
-	println("D,00");
+	myPort.write("D,00");
 }
 public void option71_clicked1(GOption source, GEvent event) {
-	println("D,01");
+	myPort.write("D,01");
 }
 public void option72_clicked1(GOption source, GEvent event) {
-	println("D,02");
+	myPort.write("D,02");
 }
 public void option73_clicked1(GOption source, GEvent event) {
-	println("D,03");
+	myPort.write("D,03");
 }
 
 
